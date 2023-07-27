@@ -1,0 +1,15 @@
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\bin\Debug\net7.0\CloudWeather.DataLoader.exe
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\bin\Debug\net7.0\CloudWeather.DataLoader.deps.json
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\bin\Debug\net7.0\CloudWeather.DataLoader.runtimeconfig.json
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\bin\Debug\net7.0\CloudWeather.DataLoader.dll
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\bin\Debug\net7.0\CloudWeather.DataLoader.pdb
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\obj\Debug\net7.0\CloudWeather.DataLoader.csproj.AssemblyReference.cache
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\obj\Debug\net7.0\CloudWeather.DataLoader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\obj\Debug\net7.0\CloudWeather.DataLoader.AssemblyInfoInputs.cache
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\obj\Debug\net7.0\CloudWeather.DataLoader.AssemblyInfo.cs
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\obj\Debug\net7.0\CloudWeather.DataLoader.csproj.CoreCompileInputs.cache
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\obj\Debug\net7.0\CloudWeather.DataLoader.dll
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\obj\Debug\net7.0\refint\CloudWeather.DataLoader.dll
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\obj\Debug\net7.0\CloudWeather.DataLoader.pdb
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\obj\Debug\net7.0\CloudWeather.DataLoader.genruntimeconfig.cache
+D:\Sample\WesDoyle\microservices-weather\CloudWeather.DataLoader\obj\Debug\net7.0\ref\CloudWeather.DataLoader.dll
